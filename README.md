@@ -11,7 +11,7 @@ A Curious Full Stack Developer/Lead Developer
 ⚡ Fun fact: I am a self taught coder 
 
 Connect with me:
-https://www.github.com/arnavsharma-thedev
+mailto:arnav.sharma.thebest@gmail.com
 https://www.geeksforgeeks.org/user/arnavsharma06/ 
 
 Languages and Tools:
